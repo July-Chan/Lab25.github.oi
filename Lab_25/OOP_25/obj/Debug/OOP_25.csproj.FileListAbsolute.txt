@@ -1,0 +1,11 @@
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\bin\Debug\FictionBD.accdb
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\bin\Debug\lab 25 KolV.exe.config
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\bin\Debug\lab 25 KolV.exe
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\bin\Debug\lab 25 KolV.pdb
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\OOP_25.csproj.AssemblyReference.cache
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\OOP_25.Form1.resources
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\lab_25_KolV.Properties.Resources.resources
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\OOP_25.csproj.GenerateResource.cache
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\OOP_25.csproj.CoreCompileInputs.cache
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\lab 25 KolV.exe
+D:\ООП\OOP_25-master\OOP_25-master\OOP_25\obj\Debug\lab 25 KolV.pdb
